@@ -1,16 +1,11 @@
-### Hi there 👋
+Hi there 👋, I’m Kashish Kashyap
+-
+-🙋‍♀️About Me
+-
+- 🌱 A final year B.Tech Computer Science Student at Chhatrapati Shahu Ji Maharaj University, Kanpur.
+- 🌱 I’m currently learning frontend development, Data Structure and Algorithms.
+- 🌱 I’m working on different projects and trying to learn more from them.
 
-<!--
-**KashishK58/Kashishk58** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔗Connect With Me:
+-
+<a href="https://www.linkedin.com/in/kashish-kashyap-64b133213/"><img src="https://cdn-icons-png.flaticon.com/128/3536/3536505.png" width="40" alt=""></a>
