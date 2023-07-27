@@ -9,3 +9,6 @@ Hi there 👋, I’m Kashish Kashyap
 🔗Connect With Me:
 -
 <a href="https://www.linkedin.com/in/kashish-kashyap-64b133213/"><img src="https://cdn-icons-png.flaticon.com/128/3536/3536505.png" width="40" alt=""></a>
+
+
+This is my new account, the old one had some issues.
