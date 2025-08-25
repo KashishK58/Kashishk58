@@ -2,9 +2,9 @@ Hi there 👋, I’m Kashish Kashyap
 -
 -🙋‍♀️About Me
 -
-- 🌱 A final year B.Tech Computer Science Student at Chhatrapati Shahu Ji Maharaj University, Kanpur.
-- 🌱 I’m currently learning frontend development, Data Structure and Algorithms.
-- 🌱 I’m working on different projects and trying to learn more from them.
+- 🌱 GET (Graduate Engineer Trainee) at Landis+Gyr | March 2025 – Present
+- 🌱 I'm currently exploring development and automation as part of my role at Landis+Gyr, with a focus on building scalable solutions and improving system efficiency.
+- 🌱 Gaining hands-on experience by working on diverse projects
 
 🔗Connect With Me:
 -
